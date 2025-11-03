@@ -1,0 +1,10 @@
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+plotly==5.24.1
+requests==2.32.3
+scikit-learn==1.5.2
+joblib==1.4.2
+pytz==2024.2
+geopy==2.4.1
+googlemaps==4.10.0
