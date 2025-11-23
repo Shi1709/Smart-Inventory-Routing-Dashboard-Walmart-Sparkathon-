@@ -11,5 +11,5 @@ A real-time dashboard for optimizing inter-store inventory transfers for retail 
 ### Tech Stack
 - **Languages/Tools:** Python, Streamlit, Scikit-learn, Random Forest, Google Maps API, VisualCrossing API
 
-## Website Link
+### Website Link
 - https://smart-inventry-routing-dashboard.streamlit.app/
